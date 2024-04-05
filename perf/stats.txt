@@ -1,0 +1,1 @@
+go run main.go 166.80s user 28.88s system 73% cpu 4:24.55 total
